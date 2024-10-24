@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="shoeshop-ecommerce">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/shoeshop-ecommerce.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
